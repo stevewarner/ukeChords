@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+header {
+  padding: 10px;
+}
+
+.App-title {
+  font-size: 2.5em;
+  font-family: 'Permanent Marker', cursive;
+}
+
+form {
+  
+}
+
+form select {
+  font-size: 1em;
+  margin: 10px;
+  
+}
+
+img {
+  max-width: calc(100% - 40px);
+}
